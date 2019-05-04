@@ -2,5 +2,6 @@
 To run the project, run as follows:
 
 > $javac AnimalArt.java
-$java AnimalArt
+> $java AnimalArt
+
 Output should be an ASCII picture of an Animal
